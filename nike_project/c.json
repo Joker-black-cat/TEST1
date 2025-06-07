@@ -1,0 +1,1252 @@
+{
+    "props": {
+        "pageProps": {
+            "colorwayImages": [
+                {
+                    "statusModifier": "BUYABLE_BUY",
+                    "id": "1015640622",
+                    "squarishImg": "https://static.nike.com.cn/a/images/t_default/29f332ee-8e5c-48da-a71d-3781c508d32b/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                    "portraitImg": "https://static.nike.com.cn/a/images/t_default/696a4438-cc87-44a8-a042-3f84618435ce/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                    "styleColor": "FZ9013-492",
+                    "colorCode": "492",
+                    "groupLabel": null,
+                    "colorDescription": "空间蓝/浅茜草根褐",
+                    "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                    "path": "/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                    "globalProductId": "41132fa3-42c3-40c2-aa1d-9b5b7b62cb03",
+                    "pdpUrl": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492"
+                }
+            ],
+            "productGroups": [
+                {
+                    "groupLabel": null,
+                    "groupIndex": 0,
+                    "products": {
+                        "FZ9013-492": {
+                            "availabilityDate": "2025-06-05T01:00:00.000Z",
+                            "badge": "环保材料",
+                            "brands": [
+                                "Nike"
+                            ],
+                            "gender": 1,
+                            "sportTags": [
+                                "Soccer"
+                            ],
+                            "colorCode": "492",
+                            "colorDescription": "空间蓝/浅茜草根褐",
+                            "consumerReleaseType": "RELEASE",
+                            "contentImages": [
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/29f332ee-8e5c-48da-a71d-3781c508d32b/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "29f332ee-8e5c-48da-a71d-3781c508d32b"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/696a4438-cc87-44a8-a042-3f84618435ce/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "696a4438-cc87-44a8-a042-3f84618435ce"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/6f29f37b-edb2-4ca0-867b-6dbc4db8f03a/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "6f29f37b-edb2-4ca0-867b-6dbc4db8f03a"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/6a19c48b-fd7f-4d8c-8c1c-bab1ed6f943c/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "6a19c48b-fd7f-4d8c-8c1c-bab1ed6f943c"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/576e91a7-6e5e-4033-b53f-2ef4a6d313fe/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "576e91a7-6e5e-4033-b53f-2ef4a6d313fe"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/fa81343d-0354-488a-9506-9bf726034978/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "fa81343d-0354-488a-9506-9bf726034978"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/05171077-0e4c-4d95-b73c-61036076ac19/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "05171077-0e4c-4d95-b73c-61036076ac19"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/a4e28b44-17e0-4d10-82d5-91c93d6a64b7/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "a4e28b44-17e0-4d10-82d5-91c93d6a64b7"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/6d50081c-be4b-4788-8120-ffe37b4d8425/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "6d50081c-be4b-4788-8120-ffe37b4d8425"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/99f308f0-1c9c-470c-aa66-718baaa15313/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "99f308f0-1c9c-470c-aa66-718baaa15313"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/0503b613-d96b-4484-830b-6806bdada84f/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "0503b613-d96b-4484-830b-6806bdada84f"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/1b62dd21-f208-4f9c-9a96-f25f0d8dc5af/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "1b62dd21-f208-4f9c-9a96-f25f0d8dc5af"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/d99b204a-859a-4a49-8d5d-27cc648f922f/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "d99b204a-859a-4a49-8d5d-27cc648f922f"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/78a16841-8153-4148-8883-d64fcb2f63c5/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "78a16841-8153-4148-8883-d64fcb2f63c5"
+                                        }
+                                    }
+                                },
+                                {
+                                    "assetSource": "CMS",
+                                    "cardType": "image",
+                                    "properties": {
+                                        "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                        "squarish": {
+                                            "aspectRatio": 1,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/e89a24c4-55de-456b-89e2-b9d7617dac07/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "e89a24c4-55de-456b-89e2-b9d7617dac07"
+                                        },
+                                        "portrait": {
+                                            "aspectRatio": 0.8,
+                                            "url": "https://static.nike.com.cn/a/images/t_default/56a09750-2891-45da-843a-8708564aa1a9/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                            "id": "56a09750-2891-45da-843a-8708564aa1a9"
+                                        }
+                                    }
+                                }
+                            ],
+                            "customizationPathName": "",
+                            "enhancedPDP": [
+                                {
+                                    "cardType": "image",
+                                    "properties": {
+                                        "title": "",
+                                        "subtitle": "",
+                                        "altText": "",
+                                        "portrait": {
+                                            "aspectRatio": 0.18552,
+                                            "url": "https://static.nike.com.cn/a/images/w_1536,c_limit/6cdc32f1-3502-4105-8d20-9932e57ab612/image.png"
+                                        },
+                                        "actions": [],
+                                        "metadataDecorations": [],
+                                        "custom": {}
+                                    }
+                                }
+                            ],
+                            "featuredAttributes": [
+                                "SUSTAINABLE_MATERIALS",
+                                "PROMOS_EXCLUDED",
+                                "JUST_IN"
+                            ],
+                            "fitRecommendationMessage": "",
+                            "globalProductId": "41132fa3-42c3-40c2-aa1d-9b5b7b62cb03",
+                            "groupIndex": 0,
+                            "groupKey": "q6LCsJcU",
+                            "groupLabel": null,
+                            "id": "1015640622",
+                            "isDigitalGiftCard": false,
+                            "isLaunchProduct": false,
+                            "isMemberProduct": false,
+                            "isSustainableMaterials": true,
+                            "isNikeSkims": false,
+                            "isPhysicalGiftCard": false,
+                            "isPromoExclusion": true,
+                            "isReservedForYou": false,
+                            "isRestrictedAccess": false,
+                            "isJerseyID": false,
+                            "isSkusRequestInFlight": false,
+                            "launchAttributes": null,
+                            "manufacturingCountriesOfOrigin": [],
+                            "merchProductId": "a80a9c97-fc7e-561a-b832-066a400761d5",
+                            "moreInfo": [
+                                [
+                                    "\u003cul\u003e\n  \u003cli\u003e此商品不参加所有促销和折扣优惠活动。\u003c/li\u003e\n  \u003cli\u003e此商品仅供会员购买且仅支持在线支付，且需在商品订单提交后10分钟内成功付款。超时订单将被取消。成功付款以本网站确认付款信息为准，您可以通过查询订单状态实时了解是否已成功付款。\u003c/li\u003e\n  \u003cli\u003e耐克会根据参与发售的用户在线提交订单的先后顺序，通过计算机系统分时/分组自动抽取获得购买资格的消费者，并主要通过 SNKRS/NIKE APP 应用程序/网站提示的方式告知您是否已经获得购买资格。请您启用您设备及 SNKRS/NIKE APP 应用程序的通知功能；提交商品购买申请后保持您NIKE会员账号处于登陆状态；确保设备的网络连接通畅。\u003c/li\u003e\n  \u003cli\u003e网上在线成功支付需要多方协同，例如：您的付款银行、支付及交易平台以及网络接入服务提供商等。自您进行支付后，各方系统需要一定时间进行数据交换直至本网站确认付款成功。\u003c/li\u003e\n  \u003cli\u003e在此期间，一旦发生网络传输延迟或数据交换堵塞可能会影响您成功付款，因此建议您在订单提交后尽快进行付款，以避免因网络延迟未能成功付款而导致订单取消的情形出现。\u003c/li\u003e\n  \u003cli\u003e本发售活动同时受到《使用条款》、《销售条款》和《特别版商品发售条款》的约束。耐克在某些情况下有权单方取消您的订单，如您已付款，耐克只需通过原付款平台向您退回您已支付款项，且无需承担其他责任。这些情况具体请前往「设置查看了解。\u003c/li\u003e\n  \u003cli\u003e由于不可抗力、传输延迟、耐克网站系统发生故障或遭受第三方攻击及其他耐克无法控制的情形，耐克有权暂时下架或延迟发售此商品。如您已下单购买此商品但因上述原因导致无法正常发货的，您有权取消订单，商城亦有权取消您的订单，并仅需为您办理退款。\u003c/li\u003e\n  \u003cli\u003e随商品一并递送给您的鞋盒/包装袋、鞋盒保护套（如有）、RFID/NFC环扣（如有）等所有附件均为商品不可分割的组成部分。如发生退货，您需同时退回商品及其所有附件。如果此商品悬挂NFC溯源环扣，您可手机碰一碰，了解更多，NFC溯源环扣旨在为您提供额外的电子化产品溯源信息，所读取的溯源信息可以帮助您了解该款产品是否为耐克官方渠道售出, 请点击\u003ca href=\"https://www.nike.com.cn/help/a/cn-nfc-tag-video\" rel=\"nofollow\"\u003e\u003cstrong\u003e此处\u003c/strong\u003e\u003c/a\u003e获取更多信息。\u003c/li\u003e\n  \u003cli\u003e所有商品图片均为官方拍摄，但由于电脑、手机等显示设备在色彩、对比度、亮度上会存在一定差异，您所看到的图片与实物难免会存在差别。\u003c/li\u003e\n  \u003cli\u003e如商品详情页存在视频内容，该内容仅展示商品的一款配色。此外，图片或视频中展示的配色有可能尚未上市或已售罄，现有配色请以商品页面为准。\u003c/li\u003e\n  \u003cli\u003e如购买人数众多，您最终有可能因该商品迅速售罄而无法买到该商品。\u003c/li\u003e\n  \u003cli\u003e为了保障您的个人信息与财产安全，请您在支付前确认配送信息正确，订单生成之后将无法为您更改配送地址。 \u003c/li\u003e\n  \u003cli\u003e游泳装备类商品如需退换货，点击\u003ca href=\"https://www.nike.com.cn/help/a/special-returns-policy-cn\" target=\"_blank\"\u003e\u003cstrong\u003e此处\u003c/strong\u003e\u003c/a\u003e了解更多特殊要求。\u003c/li\u003e\n  \u003cli\u003e敬请注意，同款但不同配色的商品有可能在材质等方面有些许差异，本页面中的商品介绍内容仅供参考，商品具体信息请以实物为准。如商品介绍内容中包含 Nike Flyknit 或气垫相关信息，请点击此\u003ca href=\"https://www.nike.com.cn/help/a/cn-product-attentions/app\" target=\"_blank\"\u003e\u003cstrong\u003e链接\u003c/strong\u003e\u003c/a\u003e，获取产品技术说明和穿着注意事项。\u003c/li\u003e\n \u003c/ul\u003e"
+                                ]
+                            ],
+                            "netQuantity": null,
+                            "styleCode": "FZ9013",
+                            "styleColor": "FZ9013-492",
+                            "searchRecsTaxonomyIds": [
+                                "05392778-fff6-4fa0-a375-2506d27f009e",
+                                "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+                                "219e4fa3-73ef-427b-8f93-9d8f51b93443",
+                                "8059a8ca-d7d2-4c6b-aabd-f21494d973b8"
+                            ],
+                            "taxonomyLabels": {
+                                "Brand": [
+                                    "Nike"
+                                ],
+                                "Gender": [
+                                    "男子"
+                                ],
+                                "Sports": [
+                                    "足球"
+                                ],
+                                "Product Type": [
+                                    "球衣"
+                                ]
+                            },
+                            "pdpUrl": {
+                                "url": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                                "canonicalUrl": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU",
+                                "path": "/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492"
+                            },
+                            "prices": {
+                                "currency": "CNY",
+                                "currentPrice": 599,
+                                "initialPrice": 599,
+                                "employeePrice": 359,
+                                "discountPercentage": 0,
+                                "employeeDiscountPercentage": 40
+                            },
+                            "productInfo": {
+                                "badge": "环保材料",
+                                "sizeFitSections": [
+                                    "\u003cp\u003e本款为美码版型，建议参考尺码工具进行选购。\u003c/p\u003e"
+                                ],
+                                "title": "2025 赛季法国队主场球迷版",
+                                "subtitle": "Nike Dri-FIT 男子速干足球球衣",
+                                "fullTitle": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                                "productDescription": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣采用前卫摩登设计，巧搭经典“娃娃领”领口和花呢风格的错视画印花，为经典法式造型注入时尚元素。 上身新款球衣，为法国队助威！",
+                                "moreDescriptions": [],
+                                "featuresAndBenefits": [],
+                                "enhancedBenefits": [
+                                    {
+                                        "header": "专业风范",
+                                        "body": [
+                                            "Nike 球迷版系列采用导湿速干技术巧搭复刻设计细节，为你打造出众应战造型，彰显挚爱球队风范。"
+                                        ]
+                                    },
+                                    {
+                                        "header": "干爽体验",
+                                        "body": [
+                                            "Nike Dri-FIT 技术可导湿速干，帮助身体保持干爽舒适。"
+                                        ]
+                                    }
+                                ],
+                                "productDetails": [
+                                    {
+                                        "header": "产品细节",
+                                        "body": [
+                                            "复刻设计",
+                                            "衣领内侧印有“NOS DIFFERENCES NOUS UNISSENT”字样，意为“因为不同，所以联合”",
+                                            "100% 聚酯纤维",
+                                            "可机洗",
+                                            "显示颜色： 空间蓝/浅茜草根褐",
+                                            "款式： FZ9013-492"
+                                        ]
+                                    }
+                                ],
+                                "origins": [],
+                                "url": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                                "canonicalUrl": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU",
+                                "path": "/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                                "sustainabilityMessage": null
+                            },
+                            "productType": "APPAREL",
+                            "selectedSku": "",
+                            "sizes": [
+                                {
+                                    "label": "S",
+                                    "localizedLabel": "S",
+                                    "localizedLabelPrefix": "美码",
+                                    "gtins": [
+                                        {
+                                            "gtin": "00197602198904"
+                                        }
+                                    ],
+                                    "sortSequence": 14,
+                                    "status": "ACTIVE",
+                                    "merchSkuId": "065d2fb9-47b3-5253-8610-6bfe2161993b"
+                                },
+                                {
+                                    "label": "M",
+                                    "localizedLabel": "M",
+                                    "localizedLabelPrefix": "美码",
+                                    "gtins": [
+                                        {
+                                            "gtin": "00197602232394"
+                                        }
+                                    ],
+                                    "sortSequence": 17,
+                                    "status": "ACTIVE",
+                                    "merchSkuId": "0c0a869f-5762-5475-bc31-b4a8592fd02a"
+                                },
+                                {
+                                    "label": "L",
+                                    "localizedLabel": "L",
+                                    "localizedLabelPrefix": "美码",
+                                    "gtins": [
+                                        {
+                                            "gtin": "00197602228915"
+                                        }
+                                    ],
+                                    "sortSequence": 21,
+                                    "status": "ACTIVE",
+                                    "merchSkuId": "55e710fe-f847-5ebd-bee4-0282188686bd"
+                                },
+                                {
+                                    "label": "XL",
+                                    "localizedLabel": "XL",
+                                    "localizedLabelPrefix": "美码",
+                                    "gtins": [
+                                        {
+                                            "gtin": "00197602246629"
+                                        }
+                                    ],
+                                    "sortSequence": 25,
+                                    "status": "ACTIVE",
+                                    "merchSkuId": "5334e197-e1bb-5cd4-8c73-05b37aaca2ab"
+                                },
+                                {
+                                    "label": "2XL",
+                                    "localizedLabel": "XXL",
+                                    "localizedLabelPrefix": "美码",
+                                    "gtins": [
+                                        {
+                                            "gtin": "00197602201734"
+                                        }
+                                    ],
+                                    "sortSequence": 29,
+                                    "status": "ACTIVE",
+                                    "merchSkuId": "66c4f6fa-bac0-54a7-96c4-4a4166cd1f33"
+                                }
+                            ],
+                            "sizeSelectError": false,
+                            "sizeChartUrl": "https://www.nike.com.cn/size-fit/mens-tops-alpha",
+                            "showAvailabilityDate": false,
+                            "statusModifier": "BUYABLE_BUY",
+                            "sustainabilityDisclaimerMessage": null,
+                            "localizedLabelPrefix": "美码",
+                            "giftCardMessageValueAddedServiceId": null,
+                            "unlock": null
+                        }
+                    }
+                }
+            ],
+            "selectedProduct": {
+                "availabilityDate": "2025-06-05T01:00:00.000Z",
+                "badge": "环保材料",
+                "brands": [
+                    "Nike"
+                ],
+                "gender": 1,
+                "sportTags": [
+                    "Soccer"
+                ],
+                "colorCode": "492",
+                "colorDescription": "空间蓝/浅茜草根褐",
+                "consumerReleaseType": "RELEASE",
+                "contentImages": [
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/29f332ee-8e5c-48da-a71d-3781c508d32b/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "29f332ee-8e5c-48da-a71d-3781c508d32b"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/696a4438-cc87-44a8-a042-3f84618435ce/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "696a4438-cc87-44a8-a042-3f84618435ce"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/6f29f37b-edb2-4ca0-867b-6dbc4db8f03a/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "6f29f37b-edb2-4ca0-867b-6dbc4db8f03a"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/6a19c48b-fd7f-4d8c-8c1c-bab1ed6f943c/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "6a19c48b-fd7f-4d8c-8c1c-bab1ed6f943c"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/576e91a7-6e5e-4033-b53f-2ef4a6d313fe/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "576e91a7-6e5e-4033-b53f-2ef4a6d313fe"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/fa81343d-0354-488a-9506-9bf726034978/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "fa81343d-0354-488a-9506-9bf726034978"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/05171077-0e4c-4d95-b73c-61036076ac19/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "05171077-0e4c-4d95-b73c-61036076ac19"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/a4e28b44-17e0-4d10-82d5-91c93d6a64b7/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "a4e28b44-17e0-4d10-82d5-91c93d6a64b7"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/6d50081c-be4b-4788-8120-ffe37b4d8425/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "6d50081c-be4b-4788-8120-ffe37b4d8425"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/99f308f0-1c9c-470c-aa66-718baaa15313/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "99f308f0-1c9c-470c-aa66-718baaa15313"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/0503b613-d96b-4484-830b-6806bdada84f/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "0503b613-d96b-4484-830b-6806bdada84f"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/1b62dd21-f208-4f9c-9a96-f25f0d8dc5af/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "1b62dd21-f208-4f9c-9a96-f25f0d8dc5af"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/d99b204a-859a-4a49-8d5d-27cc648f922f/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "d99b204a-859a-4a49-8d5d-27cc648f922f"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/78a16841-8153-4148-8883-d64fcb2f63c5/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "78a16841-8153-4148-8883-d64fcb2f63c5"
+                            }
+                        }
+                    },
+                    {
+                        "assetSource": "CMS",
+                        "cardType": "image",
+                        "properties": {
+                            "altText": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "url": "https://static.nike.com.cn/a/images/t_default/e89a24c4-55de-456b-89e2-b9d7617dac07/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "e89a24c4-55de-456b-89e2-b9d7617dac07"
+                            },
+                            "portrait": {
+                                "aspectRatio": 0.8,
+                                "url": "https://static.nike.com.cn/a/images/t_default/56a09750-2891-45da-843a-8708564aa1a9/FFF+M+NK+DF+STAD+JSY+SS+HM.png",
+                                "id": "56a09750-2891-45da-843a-8708564aa1a9"
+                            }
+                        }
+                    }
+                ],
+                "customizationPathName": "",
+                "enhancedPDP": [
+                    {
+                        "cardType": "image",
+                        "properties": {
+                            "title": "",
+                            "subtitle": "",
+                            "altText": "",
+                            "portrait": {
+                                "aspectRatio": 0.18552,
+                                "url": "https://static.nike.com.cn/a/images/w_1536,c_limit/6cdc32f1-3502-4105-8d20-9932e57ab612/image.png"
+                            },
+                            "actions": [],
+                            "metadataDecorations": [],
+                            "custom": {}
+                        }
+                    }
+                ],
+                "featuredAttributes": [
+                    "SUSTAINABLE_MATERIALS",
+                    "PROMOS_EXCLUDED",
+                    "JUST_IN"
+                ],
+                "fitRecommendationMessage": "",
+                "globalProductId": "41132fa3-42c3-40c2-aa1d-9b5b7b62cb03",
+                "groupIndex": 0,
+                "groupKey": "q6LCsJcU",
+                "groupLabel": null,
+                "id": "1015640622",
+                "isDigitalGiftCard": false,
+                "isLaunchProduct": false,
+                "isMemberProduct": false,
+                "isSustainableMaterials": true,
+                "isNikeSkims": false,
+                "isPhysicalGiftCard": false,
+                "isPromoExclusion": true,
+                "isReservedForYou": false,
+                "isRestrictedAccess": false,
+                "isJerseyID": false,
+                "isSkusRequestInFlight": false,
+                "launchAttributes": null,
+                "manufacturingCountriesOfOrigin": [],
+                "merchProductId": "a80a9c97-fc7e-561a-b832-066a400761d5",
+                "moreInfo": [
+                    [
+                        "\u003cul\u003e\n  \u003cli\u003e此商品不参加所有促销和折扣优惠活动。\u003c/li\u003e\n  \u003cli\u003e此商品仅供会员购买且仅支持在线支付，且需在商品订单提交后10分钟内成功付款。超时订单将被取消。成功付款以本网站确认付款信息为准，您可以通过查询订单状态实时了解是否已成功付款。\u003c/li\u003e\n  \u003cli\u003e耐克会根据参与发售的用户在线提交订单的先后顺序，通过计算机系统分时/分组自动抽取获得购买资格的消费者，并主要通过 SNKRS/NIKE APP 应用程序/网站提示的方式告知您是否已经获得购买资格。请您启用您设备及 SNKRS/NIKE APP 应用程序的通知功能；提交商品购买申请后保持您NIKE会员账号处于登陆状态；确保设备的网络连接通畅。\u003c/li\u003e\n  \u003cli\u003e网上在线成功支付需要多方协同，例如：您的付款银行、支付及交易平台以及网络接入服务提供商等。自您进行支付后，各方系统需要一定时间进行数据交换直至本网站确认付款成功。\u003c/li\u003e\n  \u003cli\u003e在此期间，一旦发生网络传输延迟或数据交换堵塞可能会影响您成功付款，因此建议您在订单提交后尽快进行付款，以避免因网络延迟未能成功付款而导致订单取消的情形出现。\u003c/li\u003e\n  \u003cli\u003e本发售活动同时受到《使用条款》、《销售条款》和《特别版商品发售条款》的约束。耐克在某些情况下有权单方取消您的订单，如您已付款，耐克只需通过原付款平台向您退回您已支付款项，且无需承担其他责任。这些情况具体请前往「设置查看了解。\u003c/li\u003e\n  \u003cli\u003e由于不可抗力、传输延迟、耐克网站系统发生故障或遭受第三方攻击及其他耐克无法控制的情形，耐克有权暂时下架或延迟发售此商品。如您已下单购买此商品但因上述原因导致无法正常发货的，您有权取消订单，商城亦有权取消您的订单，并仅需为您办理退款。\u003c/li\u003e\n  \u003cli\u003e随商品一并递送给您的鞋盒/包装袋、鞋盒保护套（如有）、RFID/NFC环扣（如有）等所有附件均为商品不可分割的组成部分。如发生退货，您需同时退回商品及其所有附件。如果此商品悬挂NFC溯源环扣，您可手机碰一碰，了解更多，NFC溯源环扣旨在为您提供额外的电子化产品溯源信息，所读取的溯源信息可以帮助您了解该款产品是否为耐克官方渠道售出, 请点击\u003ca href=\"https://www.nike.com.cn/help/a/cn-nfc-tag-video\" rel=\"nofollow\"\u003e\u003cstrong\u003e此处\u003c/strong\u003e\u003c/a\u003e获取更多信息。\u003c/li\u003e\n  \u003cli\u003e所有商品图片均为官方拍摄，但由于电脑、手机等显示设备在色彩、对比度、亮度上会存在一定差异，您所看到的图片与实物难免会存在差别。\u003c/li\u003e\n  \u003cli\u003e如商品详情页存在视频内容，该内容仅展示商品的一款配色。此外，图片或视频中展示的配色有可能尚未上市或已售罄，现有配色请以商品页面为准。\u003c/li\u003e\n  \u003cli\u003e如购买人数众多，您最终有可能因该商品迅速售罄而无法买到该商品。\u003c/li\u003e\n  \u003cli\u003e为了保障您的个人信息与财产安全，请您在支付前确认配送信息正确，订单生成之后将无法为您更改配送地址。 \u003c/li\u003e\n  \u003cli\u003e游泳装备类商品如需退换货，点击\u003ca href=\"https://www.nike.com.cn/help/a/special-returns-policy-cn\" target=\"_blank\"\u003e\u003cstrong\u003e此处\u003c/strong\u003e\u003c/a\u003e了解更多特殊要求。\u003c/li\u003e\n  \u003cli\u003e敬请注意，同款但不同配色的商品有可能在材质等方面有些许差异，本页面中的商品介绍内容仅供参考，商品具体信息请以实物为准。如商品介绍内容中包含 Nike Flyknit 或气垫相关信息，请点击此\u003ca href=\"https://www.nike.com.cn/help/a/cn-product-attentions/app\" target=\"_blank\"\u003e\u003cstrong\u003e链接\u003c/strong\u003e\u003c/a\u003e，获取产品技术说明和穿着注意事项。\u003c/li\u003e\n \u003c/ul\u003e"
+                    ]
+                ],
+                "netQuantity": null,
+                "styleCode": "FZ9013",
+                "styleColor": "FZ9013-492",
+                "searchRecsTaxonomyIds": [
+                    "05392778-fff6-4fa0-a375-2506d27f009e",
+                    "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+                    "219e4fa3-73ef-427b-8f93-9d8f51b93443",
+                    "8059a8ca-d7d2-4c6b-aabd-f21494d973b8"
+                ],
+                "taxonomyLabels": {
+                    "Brand": [
+                        "Nike"
+                    ],
+                    "Gender": [
+                        "男子"
+                    ],
+                    "Sports": [
+                        "足球"
+                    ],
+                    "Product Type": [
+                        "球衣"
+                    ]
+                },
+                "pdpUrl": {
+                    "url": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                    "canonicalUrl": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU",
+                    "path": "/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492"
+                },
+                "prices": {
+                    "currency": "CNY",
+                    "currentPrice": 599,
+                    "initialPrice": 599,
+                    "employeePrice": 359,
+                    "discountPercentage": 0,
+                    "employeeDiscountPercentage": 40
+                },
+                "productInfo": {
+                    "badge": "环保材料",
+                    "sizeFitSections": [
+                        "\u003cp\u003e本款为美码版型，建议参考尺码工具进行选购。\u003c/p\u003e"
+                    ],
+                    "title": "2025 赛季法国队主场球迷版",
+                    "subtitle": "Nike Dri-FIT 男子速干足球球衣",
+                    "fullTitle": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣",
+                    "productDescription": "2025 赛季法国队主场球迷版 Nike Dri-FIT 男子速干足球球衣采用前卫摩登设计，巧搭经典“娃娃领”领口和花呢风格的错视画印花，为经典法式造型注入时尚元素。 上身新款球衣，为法国队助威！",
+                    "moreDescriptions": [],
+                    "featuresAndBenefits": [],
+                    "enhancedBenefits": [
+                        {
+                            "header": "专业风范",
+                            "body": [
+                                "Nike 球迷版系列采用导湿速干技术巧搭复刻设计细节，为你打造出众应战造型，彰显挚爱球队风范。"
+                            ]
+                        },
+                        {
+                            "header": "干爽体验",
+                            "body": [
+                                "Nike Dri-FIT 技术可导湿速干，帮助身体保持干爽舒适。"
+                            ]
+                        }
+                    ],
+                    "productDetails": [
+                        {
+                            "header": "产品细节",
+                            "body": [
+                                "复刻设计",
+                                "衣领内侧印有“NOS DIFFERENCES NOUS UNISSENT”字样，意为“因为不同，所以联合”",
+                                "100% 聚酯纤维",
+                                "可机洗",
+                                "显示颜色： 空间蓝/浅茜草根褐",
+                                "款式： FZ9013-492"
+                            ]
+                        }
+                    ],
+                    "origins": [],
+                    "url": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                    "canonicalUrl": "https://www.nike.com.cn/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU",
+                    "path": "/t/2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU/FZ9013-492",
+                    "sustainabilityMessage": null
+                },
+                "productType": "APPAREL",
+                "selectedSku": "",
+                "sizes": [
+                    {
+                        "label": "S",
+                        "localizedLabel": "S",
+                        "localizedLabelPrefix": "美码",
+                        "gtins": [
+                            {
+                                "gtin": "00197602198904"
+                            }
+                        ],
+                        "sortSequence": 14,
+                        "status": "ACTIVE",
+                        "merchSkuId": "065d2fb9-47b3-5253-8610-6bfe2161993b"
+                    },
+                    {
+                        "label": "M",
+                        "localizedLabel": "M",
+                        "localizedLabelPrefix": "美码",
+                        "gtins": [
+                            {
+                                "gtin": "00197602232394"
+                            }
+                        ],
+                        "sortSequence": 17,
+                        "status": "ACTIVE",
+                        "merchSkuId": "0c0a869f-5762-5475-bc31-b4a8592fd02a"
+                    },
+                    {
+                        "label": "L",
+                        "localizedLabel": "L",
+                        "localizedLabelPrefix": "美码",
+                        "gtins": [
+                            {
+                                "gtin": "00197602228915"
+                            }
+                        ],
+                        "sortSequence": 21,
+                        "status": "ACTIVE",
+                        "merchSkuId": "55e710fe-f847-5ebd-bee4-0282188686bd"
+                    },
+                    {
+                        "label": "XL",
+                        "localizedLabel": "XL",
+                        "localizedLabelPrefix": "美码",
+                        "gtins": [
+                            {
+                                "gtin": "00197602246629"
+                            }
+                        ],
+                        "sortSequence": 25,
+                        "status": "ACTIVE",
+                        "merchSkuId": "5334e197-e1bb-5cd4-8c73-05b37aaca2ab"
+                    },
+                    {
+                        "label": "2XL",
+                        "localizedLabel": "XXL",
+                        "localizedLabelPrefix": "美码",
+                        "gtins": [
+                            {
+                                "gtin": "00197602201734"
+                            }
+                        ],
+                        "sortSequence": 29,
+                        "status": "ACTIVE",
+                        "merchSkuId": "66c4f6fa-bac0-54a7-96c4-4a4166cd1f33"
+                    }
+                ],
+                "sizeSelectError": false,
+                "sizeChartUrl": "https://www.nike.com.cn/size-fit/mens-tops-alpha",
+                "showAvailabilityDate": false,
+                "statusModifier": "BUYABLE_BUY",
+                "sustainabilityDisclaimerMessage": null,
+                "localizedLabelPrefix": "美码",
+                "giftCardMessageValueAddedServiceId": null,
+                "unlock": null
+            },
+            "selectedGroup": 0,
+            "styleColor": "FZ9013-492",
+            "isGiftCard": false,
+            "groupKey": "q6LCsJcU",
+            "customizableProductUrl": null,
+            "messages": {
+                "AU": {
+                    "NikeCom_PDP_SEO_Desc1": "",
+                    "NikeCom_PDP_SEO_Desc2": "",
+                    "shippingMessage": ""
+                },
+                "BR": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。"
+                },
+                "CN": {
+                    "NikeCom_PDP_SEO_Desc1": "耐克(Nike)中国官网为您展示{Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "会员全场免运费,更多产品信息和优惠活动,尽在Nike.com.",
+                    "NikeCom_Suffix": "-NIKE 中文官方网站",
+                    "pdp_sale_price_message_first": "价格说明（此说明仅当出现价格比较时有效)",
+                    "pdp_sale_price_message_second": "划线价格：划线的价格是商品的建议零售价供您参考。\u003cbr\u003e未划线价格：未划线的价格是商品在本平台上的销售标价，具体的成交价格可能因顾客使用优惠券、折扣等情况发生变化，最终以订单结算页价格为准。",
+                    "shippingMessage": "\u003cp\u003e\u003ca class=\"u-underline\" href=\"https://www.nike.com.cn/help/a/free-shipping-cn\"\u003e部分城市\u003c/a\u003e提供当日达、次日达服务。\u003c/p\u003e\u003cp\u003eNike会员或单笔订单满399\u003ca class=\"u-underline\" href=\"https://www.nike.com.cn/help/a/free-shipping-cn\"\u003e普通达\u003c/a\u003e免运费。\u003c/p\u003e\u003cbr\u003e\u003cu\u003e\u003ca href=\"https://www.nike.com.cn/help/a/returns-policy-cn\"\u003e退换货政策例外情况\u003c/a\u003e\u003c/u\u003e。"
+                },
+                "CZ": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/cz/en/help/a/return-exceptions-eu\"\u003e部分商品不适用\u003c/a\u003e\u003c/u\u003e。\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "DE": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "pdp_vat_message": "\u003cdiv\u003e价格包含增值税和运费。您可\u003ca href = \"http://help-en-n.nike.com/app/answers/detail/article/shipping-delivery/\" class = \"exp-pdp-tc-disclaimer-url \"\u003e在此\u003c/a\u003e查看运费详情\u003c/ div\u003e",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/de/help/a/ruckgabe-ausnahmen-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "DK": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/dk/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "ES": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/es/help/a/excepciones-devolucion-ue\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "FR": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "pdp_recycle_message": "该产品或可回收。\u003ca href=\"http://help-en.nike.com/app/answers/detail/article/triman\"\u003e了解更多\u003c/a\u003e",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/fr/help/a/exceptions-retour-ue\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "GB": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "享受免费配送及退换货服务。",
+                    "NikeCom_Suffix": "",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/gb/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "GR": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/gr/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "HU": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/hu/help/a/visszakuldesi-kivetelek-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "IT": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/it/help/a/eccezioni-restituzioni-ue\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "JP": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "NikeCom_Prefix": "",
+                    "NikeCom_Suffix": "",
+                    "discount_addendum": "售价",
+                    "pdp_sale_price_message": "",
+                    "shippingMessage": "\u003cp\u003e若商品尚未使用，自送达之日起 30 天内（除例外情况），均可免费退换货。\u003cbr\u003e \u003cu\u003e\u003ca href=\"https://www.nike.com/jp/en/help/a/returns-policy-jp\"\u003e了解更多退换货相关信息\u003c/a\u003e\u003c/u\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/p\u003e\u003cp\u003e会员随时可享免费配送服务（访客订单金额超过 15,000 日元可享免费配送服务）。\u003cbr\u003e\n\u003cu\u003e\u003ca href=\"https://www.nike.com/jp/en/membership\"\u003e立即加入\u003c/a\u003e\u003c/u\u003e或\u003ca href=\"https://www.nike.com/jp/en/login\"\u003e\u003cu\u003e登录\u003c/u\u003e\u003c/a\u003e\u003c/p\u003e",
+                    "tax_included": ""
+                },
+                "KR": {
+                    "NikeCom_Suffix": "",
+                    "shippingMessage": ""
+                },
+                "NL": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/nl/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "NO": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": ""
+                },
+                "NikeCom_PDP_SEO_Desc1": "耐克(Nike)中国官网为您展示{Product_Full_Title}。",
+                "NikeCom_PDP_SEO_Desc2": "会员全场免运费,更多产品信息和优惠活动,尽在Nike.com.",
+                "NikeCom_PDP_SEO_Keywords": "{Product_Full_Title}",
+                "NikeCom_PDP_SEO_Title": "{NikeCom_Prefix}{Product_Full_Title}{NikeCom_Suffix}",
+                "NikeCom_Suffix": "- NIKE 中文官方网站",
+                "PL": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 36 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/pl/help/a/wyjatki-dotyczace-zwrotow-ue\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "PT": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/pt/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "RU": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": ""
+                },
+                "SE": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/se/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "TH": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": ""
+                },
+                "TR": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003e订单总计超过 1600 TL，可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "TW": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "指定订单享受免费配送及退换货服务。",
+                    "shippingMessage": "\u003cp\u003e订单总计超过 TWD 4,500，可享受免费标准达配送服务\u003c/p\u003e\u003cp\u003e台北市：\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e标准达配送商品在 2-5 个工作日内送达\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e其他市/区：\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e标准达配送商品在 3-6 个工作日内送达\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e订单的处理和配送时间为周一至周五（法定假日除外）\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003ca href=\"https://www.nike.com/tw/help/a/returns-policy-gs\"\u003eNike 会员\u003c/a\u003e\u003c/u\u003e可享受免费退换货。\u003cu\u003e点击查看\u003ca href=\"https://www.nike.com/tw/help/a/return-exceptions-gs\"\u003e退换货政策例外情况\u003c/a\u003e\u003c/u\u003e。\u003c/p\u003e"
+                },
+                "US": {
+                    "NikeCom_PDP_SEO_Desc1": "在 Nike.com 查找 {Product_Full_Title}。",
+                    "NikeCom_PDP_SEO_Desc2": "会员全场免运费,更多产品信息和优惠活动,尽在Nike.com.",
+                    "NikeCom_Suffix": ". Nike.com",
+                    "shippingMessage": "\u003cdiv class=\"exp-pdp-promo-message-image\"\u003e\u003c/div\u003e\u003cdiv class=\"exp-pdp-promo-message-text-link-wrapper\"\u003e\u003cspan class=\"exp-pdp-promo-message-text\"\u003eNike 会员可享免费标准达配送服务（订单满 50 美元）和 60 天免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/help/a/free-shipping\"\u003e了解更多\u003c/a\u003e\u003c/u\u003e。\u003cu\u003e\u003ca href=\"https://www.nike.com/help/a/return-exceptions\"\u003e退换货政策除外条款适用\u003c/a\u003e\u003c/u\u003e。\u003c/span\u003e\u003c/div\u003e\u003cbr\u003e\u003cu\u003e\u003ca href=\"https://www.nike.com/help/a/store-pickup\"\u003e可在指定 Nike 商店提货。\u003c/a\u003e\u003c/u\u003e"
+                },
+                "otherStylesCarouselTitle": "其他 Zenvy 款式",
+                "otherStylesCarouselTitleGo": "其他 Go 款式",
+                "otherStylesCarouselTitleUniversa": "其他 Universa 款式",
+                "pdp_a11y_video_pause": "暂停",
+                "pdp_a11y_video_play": "播放",
+                "pdp_buying_tools_add_to_wishlist": "收藏",
+                "pdp_buying_tools_added_to_wishlist": "已收藏",
+                "pdp_crosssell_title": "你可能还喜欢",
+                "pdp_fetch_reviews_failed": "评价（错误）",
+                "pdp_nikeid_thumbnail_alt_text": "设计你的 Nike By You 专属定制产品",
+                "pdp_remove_customized_jersey": "删除",
+                "stylitics_item_link_cta": "选购",
+                "pdp_3pe_explore": "浏览",
+                "pdp_3pe_more_to_explore_header": "探索更多精彩",
+                "pdp_3pe_similar_styles_text": "选购更多精选相似款。",
+                "pdp_3pe_we_recommend_header": "其他推荐",
+                "pdp_BOPIS_Click_and_Collect_Messaging": "可在结算时选择代收服务",
+                "pdp_CarouselBtn_Next": "下一张产品图片",
+                "pdp_CarouselBtn_Prev": "上一张产品图片",
+                "pdp_NBYButtonTitle": "专属定制",
+                "pdp_NBYShareYourDesign": "分享你的设计",
+                "pdp_NotifyMeButtonTitle": "通知我",
+                "pdp_NotifyMeCancel": "取消",
+                "pdp_NotifyMeDefaultEmailAddressText": "电子邮件地址",
+                "pdp_NotifyMeDone": "完成",
+                "pdp_NotifyMeInvalidEmail": "请输入有效的电子邮件地址。",
+                "pdp_NotifyMeLegalText": "{privacyLinkText} 和 {termsOfUseLinkText}",
+                "pdp_NotifyMeModalBody": "在该产品发布时获取一次性的电子邮件提醒",
+                "pdp_NotifyMeModalPrivacyPolicyLinkText": "隐私政策",
+                "pdp_NotifyMeModalTermsOfUseLinkText": "使用条款",
+                "pdp_NotifyMeModalTitle": "不要错过",
+                "pdp_NotifyMeOk": "确定",
+                "pdp_NotifyMeOkModalTitle": "您包含在清单中",
+                "pdp_NotifyMeServerError": "创建通知时发生错误。请稍后再试一次。",
+                "pdp_NotifyMeSubmit": "提交",
+                "pdp_NotifyMeThanks": "当该产品发布时，我们将会向 {email} 发送一封一次性的电子邮件。",
+                "pdp_NotifyMe_AddAPhoneNumber": "添加手机号码以接收通知",
+                "pdp_NotifyMe_ConsentRefusal": "若不同意，您将无法收到 Nike 产品发布信息。 若通知信息未能成功送达，Nike 对此不承担任何责任。",
+                "pdp_NotifyMe_DefaultHeaderSubtitle": "在此商品发售时接收一次性通知。",
+                "pdp_NotifyMe_NotifyWithSMS": "开启短信通知",
+                "pdp_NotifyMe_OverseasTransfer": "我同意《\u003ca class=\"ncss-cta-primary-dark btn-lg underline\" href=\"{infoTransferLink}\"\u003e将个人信息分享至第三方及海外\u003c/a\u003e》",
+                "pdp_NotifyMe_PersonalInfo": "我同意《\u003ca class=\"ncss-cta-primary-dark btn-lg underline\" href=\"{infoCollectionLink}\"\u003e对个人信息的收集和使用\u003c/a\u003e》",
+                "pdp_NotifyMe_PrivacyPolicyLegal": "我同意 Nike 的《\u003ca href=\"{privacyPolicyLink}\"\u003e隐私政策\u003c/a\u003e》和《\u003ca href=\"{termsOfUseLink}\"\u003e使用条款\u003c/a\u003e》",
+                "pdp_NotifyMe_SendSMSTo": "我们将发送短信至",
+                "pdp_NotifyMe_TermsOfUseLegal": "我同意 Nike 的《\u003ca class=\"ncss-cta-primary-dark btn-lg underline\" href=\"{termsOfUseLink}\"Terms of Use\u003c/a\u003e》",
+                "pdp_NotifyMe_YouAreAllSet": "已成功开启通知！",
+                "pdp_RFYNotAuthorized": "抱歉，本产品未能为您预留。",
+                "pdp_RFYProductRedeemedOn": "兑换时间 {redeemedOn}",
+                "pdp_RFYRedeemProduct": "兑换",
+                "pdp_a11y_initialPrice_aria-label": "原价：{initialPrice}",
+                "pdp_a11y_signin_to_favorite": "登录后即可使用收藏功能",
+                "pdp_addToCart": "加入购物车",
+                "pdp_addedToCart": "已加入购物车",
+                "pdp_addedToWishlist": "已添加至收藏",
+                "pdp_additionalInfo": "更多信息",
+                "pdp_also_includes_all_applicable_duties": "同时包含所有适用的关税",
+                "pdp_card_percentageOff": "{number}% 折让",
+                "pdp_checkout": "结算",
+                "pdp_chooseSize": "选择尺码",
+                "pdp_comingSoon": "即将推出",
+                "pdp_copyLink": "复制链接",
+                "pdp_copyLinkConfirmation": "已复制",
+                "pdp_country_of_origin": "原产国家/地区：",
+                "pdp_default_title": "Nike 商店。鞋款、服装与装备。",
+                "pdp_fasterShippingOptions": "快速配送选项可能适用",
+                "pdp_feature_alert_loading_title": "加载此页时出错。请重试。",
+                "pdp_gcChooseAnAmount": "选择金额",
+                "pdp_gcColorwayTitle": "选择设计",
+                "pdp_gcCustomAmount": "自定义金额：",
+                "pdp_gcCustomAmountMaxValueError": "礼品卡金额不可超过 {maxValue}",
+                "pdp_gcCustomAmountMinValueError": "礼品卡金额必须至少为 {minValue}",
+                "pdp_gcCustomAmountRestrictedCharacterError": "此处涉及限用词，请另作选择。",
+                "pdp_gcDeliveryDetailsTitle": "添加收件人详细配送信息",
+                "pdp_gcDeliveryMethod": "选择配送方式",
+                "pdp_gcLargeOrderButton": "需要大量订购吗？",
+                "pdp_gcLargeOrderModalEmailLink": "giftcards@nike.com",
+                "pdp_gcLargeOrderModalMainText": "请发送电子邮件至 {emailLink} 以了解更多信息，或者拨打 1-877-220-6453 直接联系 Nike 以寻求帮助。您将会在 Nike 公司办公时间（周一至周五太平洋时间上午 8 点到下午 5 点，节假日除外）内收到回复或回电。请勿通过电子邮件发送信用卡信息。",
+                "pdp_gcLargeOrderModalSubTitle": "需要订购超过 10 张礼品卡或者订单总额超过 5,000 美元吗？",
+                "pdp_gcLargeOrderModalTitle": "需要下较大的订单吗？",
+                "pdp_gcOptionalMessageErrorText": "您的信息无效，请重试。",
+                "pdp_gcOptionalMessageLabel": "添加一条选填信息",
+                "pdp_gcOptionalMessageText": "向收件人输入一条个性化信息。",
+                "pdp_gcRecipientEmailAddress": "电子邮件",
+                "pdp_gcRecipientEmailAddressError": "请输入有效的电子邮件地址。",
+                "pdp_gcRecipientFirstName": "名字",
+                "pdp_gcRecipientFirstNameError": "请输入收件人的名字。",
+                "pdp_gcRecipientLastName": "姓氏",
+                "pdp_gcRecipientLastNameError": "请输入收件人的姓氏。",
+                "pdp_gcTCLink": "礼品卡条款和条件",
+                "pdp_highly_rated": "为你推荐",
+                "pdp_incl_of_taxes": "包含所有税费",
+                "pdp_jp_promotional_review_legal_text": "*含激励性评价/评分。",
+                "pdp_just_a_few_left_order_soon": "库存紧张。",
+                "pdp_just_a_few_left_order_soon_kr": "",
+                "pdp_klarna_message_short": "结算时可使用 \u003cspan\u003eKlarna\u003c/span\u003e。",
+                "pdp_launchAvailableDate": "{Launch_Date}{Launch_Time} 开始发售",
+                "pdp_launchCSGuestIntro": "建立或登录免费 Nike 会员帐户，即可在本产品发售时把握购买良机。{learnMoreButtonText}",
+                "pdp_launchCSMemberIntro": "唯有像您一样的 Nike 会员才拥有专属机会，可在本产品发售时进行购买。{learnMoreButtonText}",
+                "pdp_launchCheckoutErrorBody": "处理您的付款时出现问题。请查看您的付款信息并重试。",
+                "pdp_launchCheckoutErrorTitle": "请重试。",
+                "pdp_launchCheckoutNotLoggedIn": "您的会话已过期。请刷新并登录以继续。",
+                "pdp_launchCheckoutNumberNotVerified": "您的会话已过期。请刷新并登录以继续。",
+                "pdp_launchComingSoon": "即将推出",
+                "pdp_launchDismissModalButton": "继续购物",
+                "pdp_launchGetInLine": "排队",
+                "pdp_launchGetInLineTitle": "立即下载 Nike App 获取通知。",
+                "pdp_launchInLineBodyModal": "排到您时，我们会完成您的订单。",
+                "pdp_launchLMModalBePreparedBullet": "做足准备",
+                "pdp_launchLMModalBePreparedSubBullet": "确保您已登录 Nike 会员帐户，做好一切准备等待商品发布。",
+                "pdp_launchLMModalContinueShoppingCTA": "继续购物",
+                "pdp_launchLMModalFirstTitle": "Line Checkout 的操作方式",
+                "pdp_launchLMModalGuestJoinBullet": "成为 Nike 会员",
+                "pdp_launchLMModalGuestJoinSubBullet": "Line Checkout 仅限 Nike 会员使用。不是会员？{JoinForFree}",
+                "pdp_launchLMModalJoinForFree": "免费加入",
+                "pdp_launchLMModalJoinNikePlusCTA": "成为 Nike 会员",
+                "pdp_launchLMModalLineOne": "为确保 Nike 会员都有在网站上购买热门商品的公平机会，我们使用 Line Checkout 系统处理购买事宜。",
+                "pdp_launchLMModalLineThree": "等待时间因需求而异。每位 Nike 会员仅限购买一件商品。",
+                "pdp_launchLMModalLineTwo": "如果您所选的尺码和颜色有货，我们会处理您的订单。如果所选的商品已销售一空，我们也会通知您。",
+                "pdp_launchLMModalSecondTitle": "提高成功购买概率",
+                "pdp_launchLMModalSecondTitleSubtitle": "以下是提升 Line Checkout 体验的方法，让您更轻松地使用：",
+                "pdp_launchLMModalUpdateProfileBullet": "更新您的 Nike 会员账户",
+                "pdp_launchLMModalUpdateProfileSubBullet": "确保您的寄送与付款信息保持最新。",
+                "pdp_launchLMModalUpdateSettingsCTA": "更新帐户设置",
+                "pdp_launchLMModalVerifyMobileBullet": "验证您的手机号码",
+                "pdp_launchLMModalVerifyMobileSubBullet": "此步骤可多提供一层安全保护，让 Line Checkout 流程更加公平。",
+                "pdp_launchLearnMoreButtonText": "了解更多",
+                "pdp_launchSessionExpiredTitle": "会话已过期",
+                "pdp_launchSoldOut": "发售结束",
+                "pdp_launchUnavailableTitle": "产品无货",
+                "pdp_launchWinnerBody": "恭喜您抢购成功，您将收到一封确认电子邮件。",
+                "pdp_launchWinnerTitle": "您成功了",
+                "pdp_launchYouAreInLine": "您目前正在排队中",
+                "pdp_launch_entered": "已参与发售活动",
+                "pdp_launch_unavailable": "该产品已售罄。",
+                "pdp_manufacturerAccordionCopy": "进口商声明：直接由个人客户进口\u003cbr\u003e\u003cbr\u003e由 Nike Global Trading B.V. Singapore branch 30 Pasir Panjang Road, #10 31/32, Mapletree Business City, 117440, Singapore 销售",
+                "pdp_manufacturerAccordionHeader": "生产和进口信息",
+                "pdp_one_size": "均码",
+                "pdp_pl_price_reduction_msg": "划线价格是降价前 30 天内的最低价格。",
+                "pdp_pleaseSelectASize": "请选择尺码。",
+                "pdp_pre_order": "预购",
+                "pdp_productNotFound": "您当前查找的产品已不再供应",
+                "pdp_productSoldOutMessage": "该商品目前无货。",
+                "pdp_product_carousel_section_description": "你可能还喜欢产品轮播",
+                "pdp_product_details_title": "产品细节",
+                "pdp_promoMessaging": "此产品不参加网站促销活动和折扣优惠活动。",
+                "pdp_reviewSubmissionForm_shopperQuestionProductRecNo": "不会",
+                "pdp_review_text": "此用户免费获得该产品，或为参加抽奖/赠品活动或换取折扣而进行评论。\n\u003cbr\u003e#productsprovidedbynike",
+                "pdp_review_text_na": "此用户免费获得该产品，或为参加抽奖活动/赠品活动或换取折扣而进行评论。\n\u003cbr\u003e#teamnike",
+                "pdp_reviews_add_review_button": "写评价",
+                "pdp_reviews_mobile_showLess_button": "更少",
+                "pdp_reviews_mobile_showmore_button": "更多",
+                "pdp_reviews_more_review_button": "更多评价",
+                "pdp_reviews_no_reviews_txt": "说出你的看法。率先评论 {{pTitle}}。",
+                "pdp_reviews_noreviews": "无评价",
+                "pdp_reviews_overall_rating_unit": "星级",
+                "pdp_reviews_rating": "{StarCount} 星",
+                "pdp_reviews_singlereview": "1 星",
+                "pdp_reviews_sort_criterion_size_and_fit": "尺寸与尺码",
+                "pdp_select_width": "选择贴合程度",
+                "pdp_shareButton": "分享",
+                "pdp_shareFacebook": "分享至 Facebook",
+                "pdp_sharePinterest": "分享至 Pinterest",
+                "pdp_shareTwitter": "分享至 Twitter",
+                "pdp_shipping": "免费配送和退换货",
+                "pdp_shipping_in": "配送与退换货",
+                "pdp_shipping_us": "配送和退换货",
+                "pdp_shown": "显示颜色：",
+                "pdp_signin_to_buy_button_text": "登录进行购买",
+                "pdp_size": "尺码",
+                "pdp_sizeGuide": "尺码表",
+                "pdp_soldOutLabel": "售罄：",
+                "pdp_soldOutMessage": "此配色当前无货",
+                "pdp_soldOutTooltip": "售罄",
+                "pdp_staticShippingText": "您将在结算时看到配送选项",
+                "pdp_style": "款式：",
+                "pdp_sustainableAccordion": "制作方法",
+                "pdp_viewCart": "查看购物车",
+                "pdp_viewWishlist": "查看收藏",
+                "pdp_view_product_details_button": "查看产品细节",
+                "stylitics_component_title": "搭配造型",
+                "stylitics_hover_viewlook": "浏览全套行头",
+                "AE": {
+                    "shippingMessage": ""
+                },
+                "AT": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/at/en/help/a/return-exceptions-eu\"\u003e部分商品不适用\u003c/a\u003e。\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "BE": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/be/en/help/a/return-exceptions-eu\"\u003e部分商品不适用\u003c/a\u003e\u003c/u\u003e。\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "BG": {
+                    "shippingMessage": ""
+                },
+                "CA": {
+                    "shippingMessage": ""
+                },
+                "CH": {
+                    "shippingMessage": ""
+                },
+                "CL": {
+                    "shippingMessage": ""
+                },
+                "EG": {
+                    "shippingMessage": ""
+                },
+                "FI": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/fi/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "HR": {
+                    "shippingMessage": ""
+                },
+                "ID": {
+                    "shippingMessage": ""
+                },
+                "IE": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/ie/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "IL": {
+                    "shippingMessage": ""
+                },
+                "IN": {
+                    "shippingMessage": "\u003cp\u003e所有购买的商品均需支付运费。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e标准达需 4—9 个工作日\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e订单的处理和配送时间为周一至周五（公共假日除外）\u003c/p\u003e\u003cbr\u003e\u003cp\u003eNike 会员可享受\u003ca class=\"u-underline\" href=\"https://www.nike.com/in/help/a/returns-policy-gs\"\u003e免费退换货\u003c/a\u003e服务。\u003c/p\u003e"
+                },
+                "LU": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/lu/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "MA": {
+                    "shippingMessage": ""
+                },
+                "MX": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享免费配送服务（订单满 999 美元）和 30 天免费退换货服务。 \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.nike.com/mx/help/a/envio-entrega-gs\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cul\u003e\u003ca href=\"https://www.nike.com/mx/help/a/envio-entrega-gs\"\u003e了解更多。 \u003c/a\u003e\u003cp\u003e\u003c/p\u003e\u003c/ul\u003e\u003cp\u003e\u003c/p\u003e\u003cul\u003e\u003ca href=\"https://www.nike.com/mx/help/a/politica-de-devoluciones-gs\"\u003e\u003cbr\u003e退换货政策除外条款适用。\u003c/a\u003e\u003c/ul\u003e\u003cp\u003e\u003c/p\u003e"
+                },
+                "MY": {
+                    "shippingMessage": ""
+                },
+                "NZ": {
+                    "shippingMessage": ""
+                },
+                "PH": {
+                    "shippingMessage": ""
+                },
+                "PR": {
+                    "shippingMessage": ""
+                },
+                "RO": {
+                    "shippingMessage": ""
+                },
+                "SA": {
+                    "shippingMessage": ""
+                },
+                "SG": {
+                    "shippingMessage": ""
+                },
+                "SI": {
+                    "shippingMessage": "\u003cp\u003eNike 会员可享受免费标准达配送服务。\u003c/p\u003e\u003cul class=\"ncss-list-ul mt4-sm mb4-sm\"\u003e\u003cli class=\"ncss-li\"\u003e可在 60 天内享受无理由免费退换货服务。 \u003cu\u003e\u003ca href=\"https://www.nike.com/si/en/help/a/return-exceptions-eu\"\u003e部分商品不适用。\u003c/a\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ul\u003e"
+                },
+                "SK": {
+                    "shippingMessage": ""
+                },
+                "VN": {
+                    "shippingMessage": ""
+                },
+                "ZA": {
+                    "shippingMessage": ""
+                },
+                "arrivesByMessage": "预计送达时间",
+                "arrivesMessage": "送达",
+                "arrivesToMessage": "至",
+                "editLocationMessage": "编辑位置",
+                "freeShippingHeaderMessage": "免费配送",
+                "genericArrivesByMessage": "获取准确的配送信息",
+                "learnMoreMessage": "了解更多",
+                "pickupAtMessage": "于",
+                "pickupFindStoreMessage": "查找商店",
+                "pickupHeaderMessage": "提货日期不限",
+                "pickupNotAvailable": "该商品不支持提货",
+                "pickupTodayMessage": "今日",
+                "pickupTomorrowMessage": "明日",
+                "shippingHeaderMessage": "配送"
+            },
+            "slug": "2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU",
+            "locale": {
+                "urlParam": "zh-Hans",
+                "language": "zh-Hans",
+                "intl": "zh-Hans-CN",
+                "langRegion": "zh-CN",
+                "hreflang": "zh-Hans-CN",
+                "default": true,
+                "country": "cn",
+                "currency": "CNY",
+                "countryName": "中国大陆",
+                "countryNames": {
+                    "zh-Hans": "中国大陆",
+                    "en": "China"
+                },
+                "currencySymbol": "¥",
+                "cloudUrlFragment": "",
+                "translationsLanguage": "zh-Hans-CN",
+                "merchGroup": "CN"
+            },
+            "marketPlace": "CN",
+            "flags": {
+                "enableChat": false,
+                "enableReservedForYou": false,
+                "globalNavUseGeoPrivacy": true,
+                "incentivizedReviewsMessageNA": false,
+                "incentivizedReviewsMessage": false,
+                "loadStylitics": false,
+                "showStaticShippingMessage": false,
+                "showKlarna": false,
+                "showKlarnaPayMessage": false,
+                "showLargeGiftCardOrder": false,
+                "hideEDDFasterShippingOptionMsg": false,
+                "showEstimatedDeliveryDate": true,
+                "showEstimatedDeliveryDateAndPickup": true,
+                "showLowInventoryMessage": true,
+                "showPickupLocation": false,
+                "showPromoMsg": true,
+                "skipPercentOff": false,
+                "showCgc": false,
+                "showComingSoonAvailabilityDate": false,
+                "showEnhancedContent": true,
+                "showEPdpLite": true,
+                "showGeoMismatch": true,
+                "showRecommendations": true,
+                "showMobileWriteReview": true,
+                "showMoreReviews": true,
+                "showReviews": false,
+                "showSizeAndFit": true,
+                "showAthleteTestimonial": false,
+                "showSpecs": false,
+                "showKeyFeatures": false,
+                "showBenefits": false,
+                "showWhatsNew": false,
+                "showSustainability": false,
+                "showFavoriteBtn": true,
+                "swooshEligibleGeo": true,
+                "useSwitchboardRecommendations": false,
+                "useNotifyMeSMS": false,
+                "useWomensBrandTheme": false,
+                "showPromoExclusionMessage": true,
+                "showWhileStockLasts": false,
+                "skipSustainability": true,
+                "showEnhancedDetails": false,
+                "showEnhancedFeatures": false,
+                "showEnhancedBlockquotes": false,
+                "useThirdPartySearchRecs": true,
+                "useStyleVariations": true,
+                "asyncChatEnabled": false,
+                "useMarketplaceId": false,
+                "isGlobalStoreCountry": false
+            },
+            "params": {},
+            "otherStylesCarouselProducts": [],
+            "nikeSkimsThemeEnabled": null
+        },
+        "__N_SSP": true
+    },
+    "page": "/t/[slug]/[styleColor]",
+    "query": {
+        "slug": "2025-赛季法国队主场球迷版-dri-fit-男子速干足球球衣-q6LCsJcU",
+        "styleColor": "FZ9013-492"
+    },
+    "buildId": "pB3Q2I3xb3U93AG6ArFaP",
+    "assetPrefix": "//www.nike.com.cn/assets/experience/dotcom-pdp/pdp-experience",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true,
+    "scriptLoader": []
+}
